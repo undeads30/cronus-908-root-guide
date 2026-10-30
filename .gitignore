@@ -1,0 +1,8 @@
+# Keep firmware, device dumps and personal data out of this documentation repository.
+*.zip
+*.img
+*.gz
+*.partial
+*.apk
+Резервные-копии/
+Диагностика/
